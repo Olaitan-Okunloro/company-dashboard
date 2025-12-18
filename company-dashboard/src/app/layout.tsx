@@ -5,8 +5,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Company Dashboard',
-  description: 'A multi-application dashboard for company use',
+  title: 'Company Dashboard - Fuel Management',
+  description: 'Multi-application dashboard with fuel management system',
 }
 
 export default function RootLayout({
